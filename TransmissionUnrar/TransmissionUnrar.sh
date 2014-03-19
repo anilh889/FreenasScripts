@@ -2,7 +2,7 @@
 
 #############################################################
 # TransmissionUnrar.sh
-#
+#############################################################
 # Transmission unrars into same folder after download is completed
 #
 # IMPORTANT: This script requires unrar to be installed within the
@@ -13,6 +13,7 @@
 # "script-torrent-done-enabled": true, 
 # "script-torrent-done-filename": "/path/to/TransmissionUnrar.sh",
 #
+#############################################################
 # deinidol@gmail.com
 #############################################################
 
