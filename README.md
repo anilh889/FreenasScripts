@@ -31,4 +31,5 @@ found under: http://www.bytegeist.net/?p=3
 "script-torrent-done-enabled": true, 
 "script-torrent-done-filename": "/path/to/TransmissionUnrar.sh",
 
+---------------------------------
 deinidol[at]gmail[dotcom]
